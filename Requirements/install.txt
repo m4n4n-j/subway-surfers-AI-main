@@ -1,0 +1,10 @@
+Install the following to run the code:
+
+ - NoxStudio (https://www.bignox.com/)
+ - pyautogui (https://pyautogui.readthedocs.io/en/latest/install.html)
+ - Install the given APK in the android emulator
+ - OpenCV (https://pypi.org/project/opencv-python/)
+ - Matplotlib
+ - Numpy
+ - sklearn
+ - PyTorch
