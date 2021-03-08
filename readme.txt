@@ -16,3 +16,5 @@ Requirements:
  - OpenCV
  - sklearn
  - PyTorch
+ 
+## Read [Report.pdf](./Report.pdf) To know more about the project and algorithms used. 
