@@ -45,6 +45,8 @@ For better results the model require more training.
  -  Don't disturb the mouse once you run the code.
  -  To exit the game try to bring the cursor out of the game window.
 
+## Read [Report.pdf](./Report.pdf) To know more about the project and algorithms used. 
+
 ## References:
 
  -  https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
